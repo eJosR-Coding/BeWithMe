@@ -2,7 +2,7 @@
 
 ## Concepto del Proyecto
 
-BeWithme es una aplicación diseñada para incrementar la seguridad de las personas en Lima, Perú, mediante la provisión de información actualizada sobre áreas de riesgo. La aplicación registra y visualiza hechos delictivos, mostrando su ubicación y frecuencia. Utiliza tecnología de inteligencia artificial (IA) para informar a los usuarios sobre las condiciones de seguridad antes de que salgan de sus hogares.
+BeWithme es una aplicación diseñada para incrementar la seguridad de las personas en Lima, Perú, mediante la provisión de información actualizada sobre áreas de riesgo. La aplicación registra y visualiza hechos delictivos, mostrando su ubicación y frecuencia. Utilizará a futuro tecnología de inteligencia artificial (IA) para informar a los usuarios sobre las condiciones de seguridad antes de que salgan de sus hogares.
 
 ## Tecnologías Utilizadas
 
@@ -25,13 +25,13 @@ Para instalar y ejecutar este proyecto localmente:
 
 1. Clona el repositorio:
    \`\`\`bash
-   git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+   git clone https://github.com/eJosR-Coding/BeWithMe.git
    \`\`\`
 2. Navega al directorio del proyecto:
    \`\`\`bash
-   cd nombre-del-proyecto
+   cd BeWithMe
    \`\`\`
-3. Abre el archivo \`index.html\` en tu navegador.
+3. Abre el archivo \`HTML\LandinPage\index.html\` en tu navegador.
 
 ## Uso
 
