@@ -21,7 +21,7 @@ BeWithme es una aplicación diseñada para incrementar la seguridad de las perso
 
 ## Installation
 
-```bash
+
 git clone https://github.com/your-repo/BeWithme.git
 cd BeWithme
 
