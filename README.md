@@ -19,19 +19,11 @@ BeWithme es una aplicación diseñada para incrementar la seguridad de las perso
 - **Vera Nuñez, Nicolas Alejandro** 
 - **Serrudo Caiña, David Andre** 
 
-## Instalación
+## Installation
 
-Para instalar y ejecutar este proyecto localmente:
-
-1. Clona el repositorio:
-   \`\`\`bash
-   git clone https://github.com/eJosR-Coding/BeWithMe.git
-   \`\`\`
-2. Navega al directorio del proyecto:
-   \`\`\`bash
-   cd BeWithMe
-   \`\`\`
-3. Abre el archivo \`HTML\LandinPage\index.html\` en tu navegador.
+```bash
+git clone https://github.com/your-repo/BeWithme.git
+cd BeWithme
 
 ## Uso
 
